@@ -72,7 +72,7 @@ header.shadow {
   order: 3;
 }
 .home-img img {
-  width: 100%;
+  width: 80%;
 }
 .home-text span {
   font-size: var(--medium-font);
