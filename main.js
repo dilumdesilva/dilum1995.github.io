@@ -126,45 +126,19 @@ tabButtons.forEach(button => {
 // Tech Talks Data
 const techTalks = [
     {
-        title: "Building Mobile Apps with React Native",
-        event: "DevConf 2024",
-        year: "2024",
-        description: "An in-depth exploration of React Native development, covering best practices and performance optimization techniques.",
-        image: "img/profile.png", // Replace with actual tech talk image
-        slidesUrl: "docs/DilumDeSilva.pdf", // Replace with actual slides
-        codeUrl: "https://github.com/dilumdesilva" // Replace with actual code repository
-    },
-    {
-        title: "Modern Mobile Architecture",
-        event: "TechSummit 2023",
-        year: "2023",
-        description: "Exploring architectural patterns and design principles for scalable mobile applications.",
-        image: "img/profile.png", // Replace with actual tech talk image
-        slidesUrl: "docs/DilumDeSilva.pdf", // Replace with actual slides
-        codeUrl: "https://github.com/dilumdesilva" // Replace with actual code repository
-    },
-    // Add more tech talks here
+        title: "Mastering UI Consistency: From Widgets to Catalogs",
+        event: "DevFest Melbourne",
+        year: "2025",
+        description: "Consistent UI is the backbone of great user experiences but managing and testing widgets across devices and themes can be challenging. In this talk, you'll learn how to move from building isolated widgets to creating a living catalog of components that scales into a design system. I'll share how tools like Widgetbook streamline this process by letting you preview, test, and share widgets in isolation, much like building with LEGO pieces. This approach not only speeds up development but also improves collaboration between developers, designers, and clients whether you're working solo or in a large team, a Catalog empowers you to build reliable, scalable, and maintainable UI libraries.",
+        image: "img/talks/widgets_to_catalog.png",
+        slidesUrl: "docs/widgets_to_catalog.pdf",
+        codeUrl: "https://github.com/dilumdesilva/widgets_to_catalogs"
+    }
 ];
 
 // Articles Data
 const articles = [
-    {
-        title: "Getting Started with React Native: A Comprehensive Guide",
-        date: "2024-03-15",
-        year: "2024",
-        platform: "Medium",
-        description: "A complete guide for developers looking to start their journey with React Native, covering setup, core concepts, and best practices.",
-        url: "https://medium.com/@dilumdesilva" // Replace with actual article URL
-    },
-    {
-        title: "Building Scalable Mobile Applications",
-        date: "2023-11-20",
-        year: "2023",
-        platform: "Dev.to",
-        description: "Learn how to architect mobile applications that scale efficiently as your user base grows.",
-        url: "https://dev.to/dilumdesilva" // Replace with actual article URL
-    },
-    // Add more articles here
+    // Add your articles here
 ];
 
 // Render Tech Talks
