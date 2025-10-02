@@ -4,45 +4,159 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Dilum De Silva</title>
+    <title>Dilum De Silva - Mobile Engineer | Lecturer | Speaker</title>
+    <meta name="description" content="Portfolio of Dilum De Silva - Mobile Engineer, Lecturer, and Tech Speaker">
     <!-- Link To CSS -->
     <link rel="stylesheet" href="style.css">
     <!-- Box Icons -->
-    <link rel="stylesheet"
-  href="https://cdn.jsdelivr.net/npm/boxicons@latest/css/boxicons.min.css">
-
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/boxicons@latest/css/boxicons.min.css">
 </head>
 <body>
     <!-- Navbar -->
-    <header>
-        <div class="bx bx-sun" id="darkmode"></div>
+    <header id="header">
+        <nav class="navbar">
+            <a href="#home" class="logo">DilumDeSilva<span>.Dev</span></a>
+            <ul class="nav-menu">
+                <li><a href="#home" class="nav-link">Home</a></li>
+                <li><a href="#tech-talks" class="nav-link">Talks & Articles</a></li>
+                <li><a href="#contact" class="nav-link">Contact</a></li>
+            </ul>
+            <div class="nav-icons">
+                <div class="bx bx-sun" id="darkmode"></div>
+                <div class="bx bx-menu" id="menu-icon"></div>
+            </div>
+        </nav>
     </header>
-    <!-- Home -->
 
+    <!-- Hero Section -->
     <section class="home" id="home">
-        <div class="social">
-            <a href="https://www.linkedin.com/in/dilumdesilva/"><i class='bx bxl-linkedin'></i></a>
-            <a href="https://github.com/dilumdesilva"><i class='bx bxl-github' ></i></a>
-            <a href="https://twitter.com/dilum_de"><i class='bx bxl-twitter' ></i></a>
-            <a href="https://www.twitch.tv/collections/5UJVqDIBtRYiqw"><i class='bx bxl-twitch' ></i></a>
-            <a href="mailto:dilumdesilva.info@gmail.com"><i class='bx bxl-gmail' ></i></a>
-            <a href="https://www.facebook.com/DilumMDeSilva/"><i class='bx bxl-facebook' ></i></a>
+        <div class="home-container">
+            <div class="home-content">
+                <div class="home-text">
+                    <span class="greeting">Kia ora I'm</span>
+                    <h1 class="name">Dilum De Silva</h1>
+                    <h2 class="roles">
+                        <span class="typing-text"></span>
+                    </h2>
+                    <p class="description">A passionate and experienced engineer focused on building scalable mobile platforms while mentoring and empowering teams to succeed. Recognized as a Google Developer Expert, known for delivering impactful tech talks, and an active community leader dedicated to giving back through meetups and events.</p>
+                    <div class="home-buttons">
+                        <a href="docs/DilumDeSilva.pdf" target="_blank" download="docs/CV_DilumDeSilva.pdf" class="btn btn-primary">
+                            <i class='bx bx-download'></i> Download CV
+                        </a>
+                        <a href="#contact" class="btn btn-secondary">
+                            <i class='bx bx-envelope'></i> Get in Touch
+                        </a>
+                    </div>
+                </div>
+                <div class="home-img">
+                    <div class="img-wrapper">
+                        <img src="img/profile.png" alt="Dilum De Silva">
+                    </div>
+                </div>
+            </div>
         </div>
-        <div class="home-img">
-            <center>
-            <img src="img/profile.png" alt="">
-            </center>
-        </div>
-        <div class="home-text">
-            <span>Hello, I'm</span>
-            <h1>Dilum De Silva</h1>
-            <h2>Mobile Engineer | Lecturer | Speaker</h2>
-            <p>A passionate and seasoned Mobile Engineer driven to apply specialized software engineering skills to elevate user experiences and advance technological innovation.</p>
-            <a href="docs/DilumDeSilva.pdf" target="_blank" download="docs/CV_DilumDeSilva.pdf" class="btn">Download CV</a>
+        <div class="scroll-down">
+            <a href="#tech-talks"><i class='bx bx-chevron-down'></i></a>
         </div>
     </section>
-   
-  
+
+    <!-- Talks & Articles Section -->
+    <section class="tech-talks" id="tech-talks">
+        <div class="heading">
+            <h2>Talks & Articles by Dilum De Silva</h2>
+            <span>Sharing knowledge through speaking and writing</span>
+        </div>
+
+        <!-- Tab Navigation -->
+        <div class="content-tabs">
+            <button class="tab-btn active" data-tab="talks">
+                <i class='bx bx-microphone'></i> Tech Talks
+            </button>
+            <button class="tab-btn" data-tab="articles">
+                <i class='bx bx-edit-alt'></i> Articles
+            </button>
+        </div>
+
+        <!-- Talks Tab Content -->
+        <div class="tab-content active" id="talks-content">
+            <div class="tech-talks-controls">
+                <div class="search-box">
+                    <input type="text" id="searchInput" placeholder="Search by event name...">
+                    <i class='bx bx-search'></i>
+                </div>
+                <div class="filter-buttons">
+                    <button class="filter-btn active" data-year="all">All</button>
+                    <button class="filter-btn" data-year="2025">2025</button>
+                    <button class="filter-btn" data-year="2024">2024</button>
+                    <button class="filter-btn" data-year="2023">2023</button>
+                    <button class="filter-btn" data-year="2022">2022</button>
+                </div>
+            </div>
+
+            <div class="tech-talks-content" id="techTalksContainer">
+                <!-- Tech Talk Cards will be dynamically generated here -->
+            </div>
+        </div>
+
+        <!-- Articles Tab Content -->
+        <div class="tab-content" id="articles-content">
+            <div class="tech-talks-controls">
+                <div class="search-box">
+                    <input type="text" id="articlesSearchInput" placeholder="Search articles...">
+                    <i class='bx bx-search'></i>
+                </div>
+                <div class="filter-buttons">
+                    <button class="article-filter-btn active" data-year="all">All</button>
+                    <button class="article-filter-btn" data-year="2025">2025</button>
+                    <button class="article-filter-btn" data-year="2024">2024</button>
+                    <button class="article-filter-btn" data-year="2023">2023</button>
+                    <button class="article-filter-btn" data-year="2022">2022</button>
+                </div>
+            </div>
+
+            <div class="articles-content" id="articlesContainer">
+                <!-- Article Cards will be dynamically generated here -->
+            </div>
+        </div>
+    </section>
+
+    <!-- Contact Section -->
+    <section class="contact" id="contact">
+        <div class="heading">
+            <h2>Get In Touch</h2>
+            <span>Let's connect and collaborate</span>
+        </div>
+        <div class="contact-content">
+            <div class="contact-info">
+                <div class="info-card">
+                    <i class='bx bx-envelope'></i>
+                    <h3>Email</h3>
+                    <a href="mailto:dilumdesilva.info@gmail.com">dilumdesilva.info@gmail.com</a>
+                </div>
+                <div class="info-card">
+                    <i class='bx bxl-linkedin-square'></i>
+                    <h3>LinkedIn</h3>
+                    <a href="https://www.linkedin.com/in/dilumdesilva/" target="_blank">linkedin.com/in/dilumdesilva</a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <div class="footer-content">
+            <div class="footer-social">
+                <a href="https://www.linkedin.com/in/dilumdesilva/" aria-label="LinkedIn"><i class='bx bxl-linkedin'></i></a>
+                <a href="https://github.com/dilumdesilva" aria-label="GitHub"><i class='bx bxl-github'></i></a>
+                <a href="https://twitter.com/dilum_de" aria-label="Twitter"><i class='bx bxl-twitter'></i></a>
+                <a href="https://www.twitch.tv/collections/5UJVqDIBtRYiqw" aria-label="Twitch"><i class='bx bxl-twitch'></i></a>
+                <a href="mailto:dilumdesilva.info@gmail.com" aria-label="Email"><i class='bx bxl-gmail'></i></a>
+                <a href="https://www.facebook.com/DilumMDeSilva/" aria-label="Facebook"><i class='bx bxl-facebook'></i></a>
+            </div>
+            <p>&copy; 2024 Dilum De Silva. All rights reserved.</p>
+        </div>
+    </footer>
+
      <!-- Link To JS -->
     <script src="main.js"></script>
 </body>
