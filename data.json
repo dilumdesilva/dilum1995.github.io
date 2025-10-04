@@ -1,0 +1,191 @@
+{
+  "talks": [
+    {
+      "title": "Flutter without Gravity",
+      "year": "2026",
+      "event": "Build with AI Auckland",
+      "type": "talk"
+    },
+    {
+      "title": "Mastering UI Consistency: From Widgets to Catalogs",
+      "year": "2025",
+      "event": "DevFest Melbourne",
+      "type": "talk",
+      "pdf": "docs/mastering_ui_consistency_from_widgets_to_catalogs.pdf"
+    },
+    {
+      "title": "Prototype, build and deploy apps with AI",
+      "year": "2025",
+      "event": "GDG Ahlen Germany, Build with AI Auckland, University of Westminster UK",
+      "type": "talk",
+      "pdf": "docs/prototype_build_and_deploy_apps_with_ai.pdf"
+    },
+    {
+      "title": "Interact with AI",
+      "year": "2025",
+      "event": "Brown bag talk at AMP",
+      "type": "talk",
+      "pdf": "docs/interact_with_ai.pdf"
+    },
+    {
+      "title": "A Guide to Version Management",
+      "year": "2025",
+      "event": "Brown bag talk at AMP",
+      "type": "talk",
+      "pdf": "docs/a_guide_to_version_management.pdf"
+    },
+    {
+      "title": "What's new in Flutter from Google IO 24",
+      "year": "2024",
+      "event": "Google I/O Extended Auckland 2024",
+      "type": "talk",
+      "pdf": "docs/whats_new_in_flutter_from_google_io_24.pdf"
+    },
+    {
+      "title": "CLEAN Architecture for Flutter",
+      "year": "2023",
+      "event": "Flutter meetup Auckland",
+      "type": "talk",
+      "pdf": "docs/clean_architecture_for_flutter.pdf"
+    },
+    {
+      "title": "Flutter meets CLEAN architecture",
+      "year": "2023",
+      "event": "DevFest Sri Lanka",
+      "type": "talk",
+      "pdf": "docs/flutter_meets_clean_architecture.pdf"
+    },
+    {
+      "title": "Google I/O 23 Mobile Updates",
+      "year": "2023",
+      "event": "Google I/O Extended Auckland 2023",
+      "type": "talk",
+      "pdf": "docs/google_io_23_mobile_updates.pdf"
+    },
+    {
+      "title": "Git for Professionals",
+      "year": "2023",
+      "event": "Tech talk at Hectre",
+      "type": "talk",
+      "pdf": "docs/git_for_professionals.pdf"
+    },
+    {
+      "title": "Zero to Hero with GitHub",
+      "year": "2021",
+      "event": "NSBM University, Colombo Sri Lanka",
+      "type": "talk",
+      "pdf": "docs/zero_to_hero_with_github.pdf"
+    },
+    {
+      "title": "Redefine your tech profile with open source",
+      "year": "",
+      "event": "Software Freedom Day Sri Lanka",
+      "type": "talk",
+      "pdf": "docs/redefine_your_tech_profile_with_open_source.pdf"
+    }
+  ],
+  "articles": [
+    {
+      "title": "You Have Until May 31, 2026. Here's How to Fix 16KB Page Size Issue on Flutter Apps",
+      "year": "2026",
+      "type": "article",
+      "link": "https://medium.com/top-rail/you-have-until-may-31-2026-heres-how-to-fix-16kb-page-size-issue-on-flutter-apps-f2dbf6c2a6a3"
+    },
+    {
+      "title": "Flutter 3.38 Broke My iOS App — Here's How I Fixed It (And What Apple Didn't Tell You)",
+      "year": "2025",
+      "type": "article",
+      "link": "https://medium.com/top-rail/flutter-3-38-broke-my-ios-app-heres-how-i-fixed-it-and-what-apple-didn-t-tell-you-e79c777201c7"
+    },
+    {
+      "title": "Forget the Subscriptions, Firebase Studio with Gemini is All You Need!",
+      "year": "2025",
+      "type": "article",
+      "link": "https://medium.com/@dilumdesilva/forget-the-subscriptions-firebase-studio-with-gemini-is-all-you-need-cc88f35e92d6"
+    },
+    {
+      "title": "Firebase Dynamic Links are going away, What now for Flutter Devs?",
+      "year": "2025",
+      "type": "article",
+      "link": "https://medium.com/@dilumdesilva/firebase-dynamic-links-are-going-away-what-now-for-flutter-devs-00c5d6e7e5b9"
+    },
+    {
+      "title": "Flutter Soars at Google I/O Shoreline: A Developer's Perspective to the Latest Announcements",
+      "year": "2024",
+      "type": "article",
+      "link": "https://medium.com/@dilumdesilva/flutter-soars-at-google-i-o-shoreline-a-developers-perspective-to-the-latest-announcements-14b72a8d580b"
+    },
+    {
+      "title": "Manage many with MultiProvider",
+      "year": "2024",
+      "type": "article",
+      "link": "https://medium.com/@dilumdesilva/manage-many-with-multiprovider-8af5999a2c7a"
+    },
+    {
+      "title": "Harnessing the Power of LayoutBuilder to Build Responsive UIs in Flutter",
+      "year": "2023",
+      "type": "article",
+      "link": "https://medium.com/@dilumdesilva/harnessing-the-power-of-layoutbuilder-to-build-responsive-uis-in-flutter-450f0a0b52d2"
+    },
+    {
+      "title": "Building Flutter Layouts Based on Orientation",
+      "year": "2023",
+      "type": "article",
+      "link": "https://medium.com/@dilumdesilva/building-flutter-layouts-based-on-orientation-57842bc39f7a"
+    },
+    {
+      "title": "So, Xcode doesn't support your iPhone's OS version. Here's how to fix it.",
+      "year": "2021",
+      "type": "article",
+      "link": "https://medium.com/@dilumdesilva/so-xcode-doesnt-support-your-iphone-s-os-version-here-s-how-to-fix-it-c2db7fd58468"
+    },
+    {
+      "title": "Make your project documentation with Jekyll",
+      "year": "2020",
+      "type": "article",
+      "link": "https://medium.com/scorelab/make-your-project-documentation-with-jekyll-573bfc130fb9"
+    },
+    {
+      "title": "GSoC Community Bonding Period with ImageLab and SCoReLab",
+      "year": "2020",
+      "type": "article",
+      "link": "https://medium.com/scorelab/gsoc-community-bonding-period-with-imagelab-and-scorelab-190ccaa3f3d3"
+    },
+    {
+      "title": "Run your Flutter app on the web.",
+      "year": "2019",
+      "type": "article",
+      "link": "https://medium.com/@dilumdesilva/run-your-flutter-app-on-the-web-a49f54ef174d"
+    },
+    {
+      "title": "Google Chrome dark mood in any android device (no root).",
+      "year": "2019",
+      "type": "article",
+      "link": "https://medium.com/@dilumdesilva/google-chrome-dark-mood-in-any-android-device-no-root-5915d2aaf9bb"
+    },
+    {
+      "title": "Being a Speaker at Asia's Premeir Developer Event, FOSSASIA Summit 2019",
+      "year": "2019",
+      "type": "article",
+      "link": "https://medium.com/@dilumdesilva/being-a-speaker-at-asias-premeir-developer-event-fossasia-summit-2019-18448b7298ac"
+    },
+    {
+      "title": "Code quality of your iOS project? why don't you fix some lint issues?",
+      "year": "2019",
+      "type": "article",
+      "link": "https://medium.com/@dilumdesilva/writing-beautiful-code-in-swift-1-c183a6929feb"
+    },
+    {
+      "title": "iMessage apps: what is it and is it useful?",
+      "year": "2019",
+      "type": "article",
+      "link": "https://medium.com/@dilumdesilva/imessage-apps-what-is-it-and-is-it-useful-ea4ab6d128b"
+    },
+    {
+      "title": "What is Arduino ?",
+      "year": "2018",
+      "type": "article",
+      "link": "https://medium.com/@dilumdesilva/what-is-arduino-de8786e910b8"
+    }
+  ]
+}
