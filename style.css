@@ -826,6 +826,35 @@ body.light .btn-dark {
   opacity: 0.8;
 }
 
+/* Card link icons (repo + slides) */
+.card-links {
+  display: flex;
+  gap: 12px;
+  margin-top: 14px;
+  padding-top: 12px;
+  border-top: 1px solid var(--glass-border);
+}
+
+.card-link-icon {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 34px;
+  height: 34px;
+  border-radius: 8px;
+  color: var(--text);
+  background: var(--glass-bg);
+  border: 1px solid var(--glass-border);
+  transition: all 0.25s ease;
+  text-decoration: none;
+}
+
+.card-link-icon:hover {
+  color: var(--accent);
+  border-color: var(--accent);
+  transform: translateY(-2px);
+}
+
 /* ============================================
    Empty State
    ============================================ */
