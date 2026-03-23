@@ -3,7 +3,7 @@
 // ============================================
 const DATA = {
   talks: [
-    { title: "Flutter without Gravity", year: "2026", event: "Build with AI Auckland" },
+    { title: "Flutter without Gravity", year: "2026", event: "Build with AI Auckland", pdf: "https://github.com/dilumdesilva/flutter-without-gravity" },
     { title: "Mastering UI Consistency: From Widgets to Catalogs", year: "2025", event: "DevFest Melbourne", pdf: "docs/mastering_ui_consistency_from_widgets_to_catalogs.pdf" },
     { title: "Prototype, build and deploy apps with AI", year: "2025", event: "GDG Ahlen Germany, Build with AI Auckland, University of Westminster UK", pdf: "docs/prototype_build_and_deploy_apps_with_ai.pdf" },
     { title: "Interact with AI", year: "2025", event: "Brown bag talk at AMP", pdf: "docs/interact_with_ai.pdf" },

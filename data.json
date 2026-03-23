@@ -4,7 +4,8 @@
       "title": "Flutter without Gravity",
       "year": "2026",
       "event": "Build with AI Auckland",
-      "type": "talk"
+      "type": "talk",
+      "pdf": "https://github.com/dilumdesilva/flutter-without-gravity"
     },
     {
       "title": "Mastering UI Consistency: From Widgets to Catalogs",
