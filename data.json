@@ -1,6 +1,13 @@
 {
   "talks": [
     {
+      "title": "Friday Idea, Sunday Cheers to Monday Launch",
+      "year": "2026",
+      "event": "GDG June Meetup Brisbane",
+      "type": "talk",
+      "pdf": "docs/friday_idea_sunday_cheers_monday_launch.pdf"
+    },
+    {
       "title": "Flutter without Gravity",
       "year": "2026",
       "event": "Build with AI - Auckland, Banjul (Africa), Massey University",
