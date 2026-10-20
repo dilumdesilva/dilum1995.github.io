@@ -95,6 +95,12 @@
   ],
   "articles": [
     {
+      "title": "A Flutter dev's guide to the good, the bad, and the ugly of Apple's first foldable",
+      "year": "2026",
+      "type": "article",
+      "link": "https://medium.com/top-rail/a-flutter-devs-guide-to-the-good-the-bad-and-the-ugly-of-apple-s-first-foldable-618e6d5bcc90"
+    },
+    {
       "title": "You Have Until May 31, 2026. Here's How to Fix 16KB Page Size Issue on Flutter Apps",
       "year": "2026",
       "type": "article",
@@ -195,6 +201,318 @@
       "year": "2018",
       "type": "article",
       "link": "https://medium.com/@dilumdesilva/what-is-arduino-de8786e910b8"
+    }
+  ],
+  "timeline": [
+    {
+      "year": "2026",
+      "period": "Jan 2026–Now",
+      "kind": "work",
+      "title": "Senior Software Engineer",
+      "org": "Resolution Farm Management",
+      "place": "Auckland, NZ",
+      "note": "Building farm management software for New Zealand farmers."
+    },
+    {
+      "year": "2025",
+      "period": "2025–2026",
+      "kind": "community",
+      "title": "Build with AI, on tour",
+      "org": "Speaker",
+      "place": "Auckland · Banjul · Ahlen · Westminster · Melbourne",
+      "note": "AI-assisted app building and Flutter talks across five countries, including DevFest Melbourne."
+    },
+    {
+      "year": "2024",
+      "period": "Nov 2024–Dec 2025",
+      "kind": "work",
+      "title": "Senior Fullstack Engineer (Mobile)",
+      "org": "AMP New Zealand",
+      "place": "Auckland, NZ",
+      "note": "Set up mobile design systems, API standards, CI/CD security scans, feature flags, A/B testing and accessibility. Mentored the mobile teams and helped hire."
+    },
+    {
+      "year": "2024",
+      "period": "2024",
+      "kind": "milestone",
+      "title": "Google Developer Expert",
+      "org": "First GDE for Flutter in New Zealand",
+      "place": "Google",
+      "note": "Recognised by the Google Developer Experts program for Flutter & Dart."
+    },
+    {
+      "year": "2024",
+      "period": "Feb 2022–Feb 2024",
+      "kind": "milestone",
+      "title": "Master of Business Administration",
+      "org": "Staffordshire University, UK",
+      "place": "",
+      "note": "Completed while working full time as an engineer."
+    },
+    {
+      "year": "2023",
+      "period": "Feb 2023–Now",
+      "kind": "community",
+      "title": "Lead Organiser",
+      "org": "Flutter Auckland",
+      "place": "Auckland, NZ",
+      "note": "Runs Flutter meetups for Auckland's developer community."
+    },
+    {
+      "year": "2022",
+      "period": "Dec 2022–Now",
+      "kind": "community",
+      "title": "Manager & Organiser",
+      "org": "GDG Auckland",
+      "place": "Auckland, NZ",
+      "note": "Runs Google Developer Group Auckland: DevFest, I/O Extended and Build with AI."
+    },
+    {
+      "year": "2022",
+      "period": "Mar 2022–Jul 2024",
+      "kind": "work",
+      "title": "CTO & Co-Founder",
+      "org": "Evolza.io",
+      "place": "Remote",
+      "note": "Co-founded a startup with Isuru Kariyawasam to speed up enterprise software delivery. Led the technology behind an in-house code generation as a service (CGaaS) platform that shortens roadmaps, time to market and cost."
+    },
+    {
+      "year": "2021",
+      "period": "Dec 2021–Nov 2024",
+      "kind": "work",
+      "title": "Mobile Engineer (iOS) → Senior Mobile Engineer (Flutter)",
+      "org": "Hectre Group",
+      "place": "Auckland, NZ",
+      "note": "Brought Flutter into the native iOS apps and rebuilt the mobile architecture on CLEAN. Led on-device ML R&D with TensorFlow Lite, ran Scrum and helped hire."
+    },
+    {
+      "year": "2021",
+      "period": "2021",
+      "kind": "milestone",
+      "title": "NBQSA Bronze & Best All-Rounder",
+      "org": "Daugmentor · University of Westminster",
+      "place": "Sri Lanka",
+      "note": "Bronze at the National Best Quality Software Awards. Best All-Rounder in Westminster's Class of 2020."
+    },
+    {
+      "year": "2021",
+      "period": "2021",
+      "kind": "teaching",
+      "title": "Lecturer",
+      "org": "PCHE",
+      "place": "Sri Lanka",
+      "note": "Lectured on mobile and software engineering modules."
+    },
+    {
+      "year": "2020",
+      "period": "Nov 2020–Nov 2021",
+      "kind": "work",
+      "title": "iOS Engineer II",
+      "org": "Circles.Life",
+      "place": "Singapore",
+      "note": "Swift apps and Golang backends-for-frontends for telco users in Singapore, Taiwan and Indonesia. Led product, hiring and delivery for the Taiwan and Indonesia markets."
+    },
+    {
+      "year": "2020",
+      "period": "2020–Now",
+      "kind": "teaching",
+      "title": "Research Supervisor",
+      "org": "IIT, affiliated with University of Westminster",
+      "place": "Sri Lanka",
+      "note": "Supervises final-year bachelor's research projects in software engineering and computer science."
+    },
+    {
+      "year": "2020",
+      "period": "2020",
+      "kind": "teaching",
+      "title": "iOS Lecturer",
+      "org": "IIT, affiliated with University of Westminster",
+      "place": "Sri Lanka",
+      "note": "Taught iOS app development with Swift to undergraduate students."
+    },
+    {
+      "year": "2020",
+      "period": "2016–2020",
+      "kind": "milestone",
+      "title": "BEng (Hons) Software Engineering, First Class",
+      "org": "University of Westminster, UK",
+      "place": "",
+      "note": "Also published “A Review of Generative Adversarial Networks” at IEEE I2CT."
+    },
+    {
+      "year": "2020",
+      "period": "May–Sep 2020",
+      "kind": "work",
+      "title": "Open Source Developer, Google Summer of Code",
+      "org": "SCoRe Lab · ImageLab",
+      "place": "Remote",
+      "note": "Selected for Google's paid open-source programme. Built features for ImageLab, an open-source image processing project, working remotely with SCoRe Lab mentors."
+    },
+    {
+      "year": "2019",
+      "period": "2019",
+      "kind": "teaching",
+      "title": "Python Tutor",
+      "org": "IIT, affiliated with University of Westminster",
+      "place": "Sri Lanka",
+      "note": "Tutored first-year students in programming fundamentals with Python."
+    },
+    {
+      "year": "2019",
+      "period": "Sep 2019–Sep 2020",
+      "kind": "work",
+      "title": "iOS Engineer",
+      "org": "Naturub Exports International",
+      "place": "Sri Lanka",
+      "note": "Led internal iOS and macOS apps in Swift from idea to delivery."
+    },
+    {
+      "year": "2019",
+      "period": "2019",
+      "kind": "community",
+      "title": "Congress Chair",
+      "org": "IEEE Sri Lanka Section",
+      "place": "Sri Lanka",
+      "note": "Chaired the IEEE Sri Lanka Section Congress, bringing together student branches and volunteers from across the country."
+    },
+    {
+      "year": "2018",
+      "period": "2018–2020",
+      "kind": "community",
+      "title": "Volunteer",
+      "org": "GDG Sri Lanka",
+      "place": "Colombo, LK",
+      "note": "Helped run Google Developer Group events in Sri Lanka, including DevFest and I/O Extended."
+    },
+    {
+      "year": "2018",
+      "period": "Sep 2018–Feb 2020",
+      "kind": "work",
+      "title": "Google Code-in Mentor",
+      "org": "Google · Part-time",
+      "place": "Sri Lanka · Remote",
+      "note": "Mentored pre-university students (ages 13 to 17) through their first open-source contributions in programming and iOS development, until the contest's final run in January 2020."
+    },
+    {
+      "year": "2018",
+      "period": "Sep 2018–Dec 2020",
+      "kind": "community",
+      "title": "GitHub Campus Expert",
+      "org": "GitHub",
+      "place": "Sri Lanka",
+      "note": "Sri Lanka's third GitHub Campus Expert, trained by GitHub to build student developer communities."
+    },
+    {
+      "year": "2018",
+      "period": "Aug 2018–Oct 2022",
+      "kind": "community",
+      "title": "Tech Speaker",
+      "org": "GitHub",
+      "place": "Tokyo · Singapore · Vadodara · Sri Lanka",
+      "note": "Talks at World Congress Tokyo, FOSSASIA Summit Singapore, Flutter Bootcamp Vadodara, Colombo Flutter Meetup, Hacktoberfest Open Hack Day, ICTCS Twists N' Turns, ITRC University of Sri Jayewardenepura and Mozilla Sri Lanka's Software Freedom Day."
+    },
+    {
+      "year": "2018",
+      "period": "Jul 2018–Jul 2019",
+      "kind": "work",
+      "title": "Trainee Associate Software Engineer",
+      "org": "Zone24x7",
+      "place": "Colombo, LK",
+      "note": "R&D-heavy work on a brand-new platform, delivered to tight deadlines."
+    },
+    {
+      "year": "2018",
+      "period": "Jan 2018–Feb 2023",
+      "kind": "community",
+      "title": "Community Lead",
+      "org": "Flutter Colombo",
+      "place": "Colombo, LK",
+      "note": "Five years growing Sri Lanka's Flutter community."
+    },
+    {
+      "year": "2017",
+      "period": "2017–2018",
+      "kind": "community",
+      "title": "Chairperson",
+      "org": "IEEE Student Branch, IIT",
+      "place": "Colombo, LK",
+      "note": "Led the IEEE student branch at the Informatics Institute of Technology."
+    },
+    {
+      "year": "2017",
+      "period": "Oct–Dec 2017",
+      "kind": "milestone",
+      "title": "Design Thinking Scholar",
+      "org": "Cambio Learning Center",
+      "place": "Colombo, LK",
+      "note": "Designed “Xtro 2.2”, a product concept for people who spend long hours at screens."
+    },
+    {
+      "year": "2017",
+      "period": "May–Sep 2017",
+      "kind": "work",
+      "title": "Software Engineering Intern",
+      "org": "Naturub Exports International",
+      "place": "Sri Lanka",
+      "note": "The starting point: C#, Visual Basic and SQL Server."
+    }
+  ],
+  "recommendations": [
+    {
+      "name": "Pubudu Mihiranga",
+      "role": "Product Engineer (Mobile Platforms)",
+      "relation": "Reported to Dilum directly",
+      "date": "Feb 2024",
+      "highlight": "Truly one of the most exceptional managers I've had in my career.",
+      "text": "I had the privilege of working with Dilum at Circles, and he is truly one of the most exceptional managers I've had in my career.\n\nFrom the very start, Dilum's approach to the interview process was straightforward and insightful, setting a positive tone for our working relationship. As soon as I joined Circles as an intern Engineer, Dilum took me under his wing, providing invaluable guidance and mentorship that laid a solid foundation for my career. Thanks to his foundation, I was promoted twice (from Intern Engineer to Associate Engineer to Engineer I) in an impressively short period.\n\nOne of Dilum's most admirable qualities is his dedication to the holistic development of his team members. He consistently encouraged me to pursue excellence not only in my professional endeavors but also in my personal and academic pursuits. As a result, I was honored to receive the award for batch topper in the University of Westminster's Class of 23, a milestone I attribute largely to Dilum's unwavering support and encouragement.\n\nFurthermore, Dilum emphasized the importance of maintaining a healthy work-life balance. He not only stressed the significance of continuous learning but also urged me to engage in extracurricular activities such as reading and writing in tech and volunteering in the tech communities. His guidance enabled me to navigate the complexities of balancing work, academics, and personal life, allowing me to thrive in all aspects.\n\nWithout hesitation, I highly recommend Dilum for any role that requires people management. I am confident that his expertise, dedication, and mentorship will continue to positively impact those around him."
+    },
+    {
+      "name": "Stephanie Busby",
+      "role": "Digital Development Manager at AMP",
+      "relation": "Senior to Dilum",
+      "date": "Mar 2026",
+      "highlight": "Very passionate about driving change and ensuring we were producing quality code.",
+      "text": "Dilum was a part of our team for just over a year. He is very passionate about driving change and ensuring we were producing quality code. His documentation was very well executed, and this has been invaluable since he has moved on to his next role. He embraced personal development in his technical craft and I am sure that he will find many growth opportunities as a result."
+    },
+    {
+      "name": "Saurabh Godbole",
+      "role": "Sr Mobile Engineer (Android, Flutter, React Native)",
+      "relation": "Worked on the same team",
+      "date": "Sep 2024",
+      "highlight": "His holistic problem solving, team bonding & speaking skills is something he is really good at.",
+      "text": "Dilum is a multi talented & passionate mobile engineer. Not just programming but he is on top of latest things in IT be it generative AI or software updates or some new tech. His holistic problem solving, team bonding & speaking skills is something he is really good at. He is a great addition to any product team."
+    },
+    {
+      "name": "Rukshan Perera",
+      "role": "Director, Product Management @ hSenidBiz",
+      "relation": "Managed Dilum directly",
+      "date": "Jul 2019",
+      "highlight": "Displayed great tenacity and took up challenges with no hesitation.",
+      "text": "Dilum during his time working with me displayed great tenacity and took up challenges with no hesitation. He was involved in a project that required heavy R&D due to the newness of the application and lack of available support literature. He worked and delivered the project deliverables with tight deadlines despite these constraints. It was truly a pleasure working with a team player who can be trusted to perform under challenging circumstances. He also has a good attitude and got along well his other associates within the company.\n\nI would without hesitation recommend Dilum to any prospective employers.\n\nAll the best Dilum and thank you for your hard work."
+    },
+    {
+      "name": "Yasith Abeynayaka",
+      "role": "Product Manager, Enterprise AI Transformation",
+      "relation": "Mentor at Cambio Healthcare Systems",
+      "date": "Mar 2018",
+      "highlight": "Amazed by Dilum's ability to understand concepts very quickly and apply them in real life context.",
+      "text": "Dilum is among the handful of university students who succeeded in completing the 10-week introductory program on Industrial Product Design conducted by Cambio Healthcare Systems. Throughout the 10 week program, he was mentored by seasoned designers from our team to design a product from scratch where he mastered design research methods, how to understand the context of use, defining design challenges, ideation techniques, product concept development including design sketching, techniques to evaluate concepts, testing with users and creative storytelling.\n\nAs his mentors, we were amazed by Dilum's ability to understand concepts very quickly and apply them in real life context. He designed an amazing product he branded Xtro 2.2, solving human-centered problems of the tech industry employees with high screen time. The design and product concept includes the right balance of desirability, feasibility, and viability. Further, We were privileged to experience his professionalism, technical know-how, and creativity, further, we have our highest recommendation for challenging assignments that demand creative and innovative thinking."
+    },
+    {
+      "name": "Tishantha Dilruk",
+      "role": "Senior Software Engineer at VitalHub Innovations Lab",
+      "relation": "Worked on the same team",
+      "date": "Sep 2017",
+      "highlight": "Talent is the phrase that comes to mind when I think about Dilum.",
+      "text": "Talent is the phrase that comes to mind when I think about Dilum. I've had the pleasure of knowing Dilum for Six month, during which at Naturub. Above all, I was impressed with Dilum's ability to learn new technologies. And, of course, his friendliness. Dilum would be a true asset for any positions requiring Responsible, Talented and comes with my heartfelt recommendation."
+    },
+    {
+      "name": "Rangana Gunawardena",
+      "role": "Senior Back End Developer @ Amused Group",
+      "relation": "Managed Dilum directly",
+      "date": "Sep 2017",
+      "highlight": "One of the best among all people I have ever met.",
+      "text": "Dilum is one of the best among all people I have ever met. He is self motivated fast learner. He is always eager to learn and improve about latest technologies. During his internship he gathered lot of knowledge about C#, Visual Basic, SQL SERVER from us. Based on my time working with Dilum, I recommend he is an extremely valuable asset to any organization."
     }
   ]
 }
