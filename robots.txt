@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://dilumdesilva.dev/sitemap.xml
